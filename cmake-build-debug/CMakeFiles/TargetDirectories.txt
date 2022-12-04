@@ -1,0 +1,3 @@
+D:/Sharif/Term1/Books/Kargah/Fatemeh/cmake-build-debug/CMakeFiles/Fatemeh.dir
+D:/Sharif/Term1/Books/Kargah/Fatemeh/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Sharif/Term1/Books/Kargah/Fatemeh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
